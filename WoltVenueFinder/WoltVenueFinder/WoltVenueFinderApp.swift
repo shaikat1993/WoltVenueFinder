@@ -11,7 +11,7 @@ import SwiftUI
 struct WoltVenueFinderApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            VenueListView()
         }
     }
 }
